@@ -1,0 +1,28 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "title": "Olá, mundo!",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam minus inventore voluptatem, eum repellat sed officiis aliquam",
+      "author": "Isaac"
+    },
+    {
+      "id": 2,
+      "title": "Requisições POST com Javascript",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam minus inventore voluptatem, eum repellat sed officiis aliquam",
+      "author": "Isaac"
+    },
+    {
+      "title": "Usando o Metodo POST",
+      "author": "Josue",
+      "content": " se adicionarmos uma action e um method ao nosso form ele já consegue fazer requisições para o json-server, criando um novo artigo, e como a página é atualizada o novo artigo já aparece na tela. No entando, o que queremos é fazer as requisições POST através do javascript sem atualizar a página. Para isso podemos usar o fetch() novamente, dessa vez com algumas opções a mais:",
+      "id": 3
+    },
+    {
+      "title": "Tudo tem Limite",
+      "author": "Emi",
+      "content": "fui no mercado comprar um sorvetinho e me deparei com o pior crime que já existiu: etiqueta de preço com qr code",
+      "id": 4
+    }
+  ]
+}
